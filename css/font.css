@@ -2,3 +2,19 @@
     font-family: "Poppins-Medium";
     src: url("../font/Poppins-Medium.ttf") format("opentype");
    }
+   @font-face {
+    font-family: "Baskervill_regulaar";
+    src: url("../font/librebaskerville.ttf") format("opentype");
+   }
+   @font-face {
+    font-family: "Poppins-SemiBold";
+    src: url("../font/Poppins-SemiBold.ttf") format("opentype");
+   }
+   @font-face {
+    font-family: "Poppins-Medium";
+    src: url("../font/Poppins-Medium.ttf") format("opentype");
+   }
+   @font-face {
+    font-family: "Poppins-Regular";
+    src: url("../font/Poppins-Regular") format("opentype");
+   }

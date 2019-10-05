@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="15mm" height="15mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1500 1500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:100;stroke-miterlimit:22.9256}
+    .str1 {stroke:#2B2A29;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2235426694416">
+   <circle class="fil0 str0" cx="750" cy="750" r="681.3"/>
+   <path class="fil0 str0" d="M932.69 477.87c-59.53,-19.84 -102.05,-79.47 -200.09,-66.15 -91.43,12.43 -165.38,98.96 -165.37,188.51 0.02,160.33 379.52,178.33 377.03,367.12 -2.31,175.05 -190.16,160.4 -190.16,160.4 -62.2,4.99 -158.21,-61.18 -226.56,-87.64"/>
+   <line class="fil0 str0" x1="749.88" y1="410.07" x2="750.13" y2= "274.23" />
+   <line class="fil0 str0" x1="749.88" y1="1253.43" x2="750.13" y2= "1117.59" />
+  </g>
+  <g id="_2235426691856">
+   <circle class="fil0 str0" cx="-2105.66" cy="553.84" r="681.3"/>
+   <polyline class="fil0 str0" points="-1717.75,340.34 -2209.29,831.88 -2412.28,625.59 "/>
+  </g>
+  <g id="_2235426754480">
+   <circle class="fil0 str0" cx="10419.36" cy="-1738.06" r="681.3"/>
+   <polyline class="fil0 str0" points="10848.66,-2046.76 10461.81,-1659.91 10162.75,-1902.7 "/>
+   <rect class="fil1 str1" x="10392.86" y="-2322.93" width="92.61" height="92.61"/>
+   <rect class="fil1 str1" x="9870.32" y="-1793.74" width="92.61" height="92.61"/>
+   <rect class="fil1 str1" x="10396.18" y="-1274.51" width="92.61" height="92.61"/>
+   <rect class="fil1 str1" x="10922.05" y="-1803.66" width="92.61" height="92.61"/>
+  </g>
+ </g>
+</svg>
